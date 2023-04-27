@@ -10,3 +10,4 @@ const newAccount = (name = 'Fabian', age= 26, country = 'CO') => {
 
 newAccount();
 newAccount('Maria Jose', 4, 'Australia');
+
