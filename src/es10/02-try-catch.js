@@ -14,4 +14,4 @@ try {
     console.log('Lanzo mi error personalizado');
 }
 //Al ejecutar aparecera esto en vez de decir que anotherFn() es undefined
-// Lanzo mi error personalizado
+// Lanzo mi error personalizado, pero no es muy recomendado.
